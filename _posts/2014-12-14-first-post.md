@@ -5,7 +5,7 @@ title: First post!!!
 
 Hey all, welcome to my blog.  I'll be writing about things that interest me, but in particular I will be focusing on programming.
 
-As you can see on the [About](about) page, I am currently a student at Hack Reactor.  Today is my "weekend" or rather, just the single day that we have off each week during the program.  So far today, I have spent the morning setting up this site.  It is super interesting how much helpful info and guidese there are out in the world.  Hopefully, this page will become that as well.
+As you can see on the [About](about) page, I am currently a student at Hack Reactor.  Today is my "weekend" or rather, just the single day that we have off each week during the program.  So far today, I have spent the morning setting up this site.  It is super interesting how much helpful info and guides there are out in the world.  Hopefully, this page will become that as well.
 
 ## Hack Reactor Week 1
 
@@ -23,7 +23,7 @@ Throughout the first week, HR staff gave lectures about expectations.  The gist 
 
 ### Hash Tables
 
-We did a big 4 day sprint on data structures.  Of them all, Hash Tables were the most illuminating.  My pair and I had to recode this data structure 3 different times to get it right.  The lesson here being ensure that the mental model or picture you have is correct before you start coding.  Choices made during this design phase will impact just how easy or how difficult it is to implement various methods on your object.  
+We did a big 4 day sprint on data structures.  Of them all, Hash Tables were the most illuminating.  My pair and I had to recode this data structure 3 different times to get it right.  The lesson here being, ensure that the mental model or picture you have is correct before you start coding.  Choices made during this design phase will impact just how easy or how difficult it is to implement various methods on your object.  
 
 ### The people
 
