@@ -9,7 +9,7 @@ As you can see on the [About](about) page, I am currently a student at Hack Reac
 
 ## Hack Reactor Week 1
 
-Hack Reactor has been everything that I expected and more.  In this first, crazy intense week, we have had more lectures than I can recount, we worked on a ton of code, and I have never felt more energized.  With 11 hours day, I expected to be exhausted, and to be truthful, I am tired, but not exhausted.  This program is just way to mentally stimulating.  The act of pair programming and the desire to finish each assignment and just plain get it to work is so so thrilling.  
+Hack Reactor has been everything that I expected and more.  In this first, crazy intense week, we have had more lectures than I can recount, we worked on a ton of code, and I have never felt more energized.  With 11 hours day, I expected to be exhausted, and to be truthful, I am tired, but not exhausted.  This program is just way too mentally stimulating.  The act of pair programming and the desire to finish each assignment and just plain get it to work is so so thrilling.  
 
 My favorite moments or learnings from the week:
 
@@ -27,6 +27,6 @@ We did a big 4 day sprint on data structures.  Of them all, Hash Tables were the
 
 ### The people
 
-From the staff, to instructurs, to Hackers in Residence, to Cohort 22, and my Cohort 23, everyone is awesome.  HR did just an amazing job bringing together people who are like-minded about code, collaboration, communication, etc, while also still super varied in background and story.  It adds a lot of value to have so many interesting people all in one place.  I am so excited each day to work with these folks.
+From the staff, to instructurs, to Hackers in Residence, the Seniors, to Cohort 22, and my Cohort 23, everyone is awesome.  HR did just an amazing job bringing together people who are like-minded about code, collaboration, communication, etc, while also still super varied in background and story.  It adds a lot of value to have so many interesting people all in one place.  I am so excited each day to work with these folks.
 
 On to the next week!
