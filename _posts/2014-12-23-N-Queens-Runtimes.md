@@ -9,10 +9,10 @@ The machines at Hack Reactor have 4 cores and we were able to run N=19 in 48.5 m
 
 Here is the screenshot for 10 to 15.
 
-![N-Qeens 10 to 15]({{ site.url }}/assets/N-Queens Parrallel 10-15.png)
+![N-Qeens 10 to 15]({{ site.url }}/assets/N-Queens Parallel 10-15.png)
 
 Here is the screenshot for 16 and 17.
 
-![N-Queens 16 and 17]({{ site.url }}/assets/N-Queens Parrallel 16-17.png)
+![N-Queens 16 and 17]({{ site.url }}/assets/N-Queens Parallel 16-17.png)
 
 Can't really run much more as the the run time scales pretty fast.  Ultimately, we need to get this distributed across multiple machines.
