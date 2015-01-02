@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Why Hack Reactor?
+tags: [Hack Reactor, Bootcamps, Review]
 ---
 
 ![Hack Reactor]({{ site.url }}/assets/HR Logo.png)

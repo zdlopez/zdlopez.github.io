@@ -1,6 +1,7 @@
 ---
 layout: post
 title: jQuery Event Listeners on Dynamically Created DOM Elements
+tags: [jQuery, DOM]
 ---
 
 ![jQuery]({{ site.url }}/assets/jquery.gif)
