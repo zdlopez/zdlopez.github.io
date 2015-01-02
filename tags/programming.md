@@ -1,5 +1,5 @@
 ---
 layout: blog_by_tag
-tag: programming
-permalink: programming/
+tag: Programming
+permalink: Programming/
 ---
