@@ -9,7 +9,7 @@ layout: default
   {% include twitter_plug.html %}
 </div>
 <div class="tags">
-  <p class="entry-tags">{% for tag in page.tags %}<a href="{{ site.url }}/tags.html#{{ tag | cgi_escape }}" title="Pages tagged {{ tag }}" rel="tag">{{ tag }}</a>{% unless forloop.last %} &bull; {% endunless %}{% endfor %}</p>
+  <p class="entry-tags">{% for tag in page.tags %}<a href="{{ site.url }}/topics.html#{{ tag | cgi_escape }}" title="Pages tagged {{ tag }}" rel="tag">{{ tag }}</a>{% unless forloop.last %} &bull; {% endunless %}{% endfor %}</p>
 </div>
 
 <div class="related">
