@@ -1,6 +1,7 @@
 ---
 layout: post
 title: First post!!!
+tags: [hr]
 ---
 
 Hey all, welcome to my blog.  I'll be writing about things that interest me, but in particular I will be focusing on programming.
