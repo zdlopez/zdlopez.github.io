@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Topics
+title: Topics 
 ---
 
 {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
