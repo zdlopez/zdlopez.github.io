@@ -12,9 +12,9 @@ Highlights of the day:
 
 ### Presentation of Affordable Housing
 
-Today I gave my lightning talk on Affordable Housing.  The link is here should you want to check out my deck:
+Today I gave my lightning talk on Affordable Housing.  Here is my deck if you want to check it out:
 
-<iframe src="https://docs.google.com/presentation/d/16ckBx_v5l53ZXxqjcYmkGbSWGky2y1tFIJh4llX4_i8/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/16ckBx_v5l53ZXxqjcYmkGbSWGky2y1tFIJh4llX4_i8/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ### Coffee Script
 
