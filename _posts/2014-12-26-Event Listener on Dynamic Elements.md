@@ -9,6 +9,7 @@ tags: [jQuery, DOM]
 jQuery is a powerful way to manipulate DOM (Document Object Model) elements on a webpage.  I will cover a common mistake when trying to build a website with dynamic content that responds to user interactions.  
 
 In the following image, which is a sort of twitter clone, new tweets are generated and displayed to the page.  The user of the site is allowed to click on any user name to see that user's full stream of tweets.  
+<!--more-->
 
 ![jQuery]({{ site.url }}/assets/twittler.png)
 
