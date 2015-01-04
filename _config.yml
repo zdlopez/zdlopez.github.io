@@ -12,7 +12,7 @@ relative_permalinks: true
 title:               Zachary Lopez
 tagline:             Javascript Engineer
 description:         'The thoughts, musings, and projects of a software engineer.'
-url:                 http://zdlopez.github.io
+url:                 http://www.zdlopez.com
 baseurl:             /
 paginate:            5
 excerpt_separator:   <!--more-->

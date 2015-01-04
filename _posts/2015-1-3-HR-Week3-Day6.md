@@ -4,10 +4,11 @@ title: Hack Reactor - Week 3 Day 6
 tags: [Hack Reactor, Coffee Script, Backbone, Testing, Sinon]
 ---
 
-Another close of week in the books.  We are now a quarter through the program.  Time has passed by so fast.  This program is so full of information and excitement that I can't really believe all that I have learned and in just how little time.
+Another close of a week in the books.  We are now a quarter through the program.  Time has passed by so fast.  This program is so full of information and excitement that I can't really believe all that I have learned and in just how little time.
 
 Today we finished the second day of the Backbone and Coffee Script sprint.  Backbone being new, plus Cofee Script being new, made this challenging and interesting.  It also made it harder to detect exactly where errors were.  Could they be the syntax of Coffee Script, or the Backbone methods?
- <!--more-->
+
+<!--more-->
 
 Highlights of the day:
 
