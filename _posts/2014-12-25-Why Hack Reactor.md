@@ -11,6 +11,7 @@ I wanted to write about this topic to give back to the community that led me to 
 ## Background
 
 The first thing you need to know is that I have a Computer Science and Computer Engineering Bachelor's of Science from UC Davis in 2004.  In the time since graduation, I have not used this degree save small visual basic scripting in excel.  
+
 <!--more-->
 
 Additionally, I am someone who enjoys a challenge and needs to be pushed.  Pressure is an environment that I strive in.  

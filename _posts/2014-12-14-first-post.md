@@ -7,6 +7,7 @@ tags: [Hack Reactor, Programming, Blogging]
 Hey all, welcome to my blog.  I'll be writing about things that interest me, but in particular I will be focusing on programming.
 
 As you can see on the [About](http://www.zdlopez.com/about) page, I am currently a student at Hack Reactor.  Today is my "weekend" or rather, just the single day that we have off each week during the program.  So far today, I have spent the morning setting up this site.  It is super interesting how much helpful info and guides there are out in the world.  Hopefully, this page will become that as well.
+
 <!--more-->
 
 ## Hack Reactor Week 1
