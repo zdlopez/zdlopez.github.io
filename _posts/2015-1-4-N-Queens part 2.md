@@ -32,6 +32,8 @@ return x
 }
 ```
 
+<!--more-->
+
 Okay, now this is a bit more readable.  Let's comb through and add some indentation.
 
 ```javascript
