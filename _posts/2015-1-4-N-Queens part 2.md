@@ -66,7 +66,7 @@ function q(n){
         b;
     for(;p;p-=b){
       b=p&-p;
-      i((l|b)<<1,c|b,(r|b)>>1)
+      i((l|b)<<1,c|b,(r|b)>>1);
     }
   }
   i();
@@ -99,7 +99,7 @@ function queenSolutions(n){
         bit;
     for( ; possible ; possible -= bit ){
       bits = possible & -possible;
-      innerRecursiveFunction( ( left | bits ) << 1, columns | bit, ( right | bit ) >> 1 )
+      innerRecursiveFunction( ( left | bits ) << 1, columns | bit, ( right | bit ) >> 1 );
     }
   }
   innerRecursiveFunction();
@@ -113,21 +113,45 @@ Note:  all, columns, left, right, possible, and bit are all binary representatio
 
 ```javascript
 function queenSolutions(n){
-  var numSolutions = 0, //this variable will be used to track the total solutions found
-      all = ( 1 << n ) - 1;  //this is a mask for bitwise operations, with value of 1 in each place.  For example with "n" as 4, all is 1111
-  function innerRecursiveFunction( left, columns, right ){ //this is our recursive function
-    if( columns == all ){ //if columns is equal to all then, this is a valid solution
-      numSolutions++;  //increase the count by 1
+
+  var numSolutions = 0, 
+  //this variable will be used to track the total solutions found
+
+      all = ( 1 << n ) - 1;  
+      //this is a mask for bitwise operations, with value of 1 in each place.  For example with "n" as 4, all is 1111
+
+  function innerRecursiveFunction( left, columns, right ){ 
+  //this is our recursive function
+
+    if( columns == all ){ 
+    //if columns is equal to all then, this is a valid solution
+
+      numSolutions++;  
+      //increase the count by 1
+
     }
-    var possible = ~( left | columns | right ) & all, //possible tracks the available spots of where a queen can be placed
-        bit;  //variable declaration with all 0s in each bit position
-    for( ; possible ; possible -= bit ){ //on a successive iteration, possible will equal possible minus bit
-      bit = possible & -possible;  //this will be a mask for the next line, setting up the next call
-      innerRecursiveFunction( ( left | bits ) << 1, columns | bit, ( right | bit ) >> 1 )  //bit shifts and or combinations to pass in the state of current solution
+
+    var possible = ~( left | columns | right ) & all, 
+    //possible tracks the available spots of where a queen can be placed
+
+        bit;  
+        //variable declaration with all 0s in each bit position
+
+    for( ; possible ; possible -= bit ){ 
+      //on a successive iteration, possible will equal possible minus bit
+
+      bit = possible & -possible;  
+      //this will be a mask for the next line, setting up the next call
+      innerRecursiveFunction( ( left | bits ) << 1, columns | bit, ( right | bit ) >> 1 );  
+      //bit shifts and or combinations to pass in the state of current solution
+
     }
   }
-  innerRecursiveFunction(); //initial call to start the program, sends in 0 for all parameters
-  return numSolutions;  //return the number of solutions
+  innerRecursiveFunction(); 
+  //initial call to start the program, sends in 0 for all parameters
+
+  return numSolutions;  
+  //return the number of solutions
 }
 ```
 
