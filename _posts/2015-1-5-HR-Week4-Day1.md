@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hack Reactor - Week 4 Day 1
-tags: [Backbone, Node]
+tags: [Hack Reactor, Backbone, Node]
 ---
 
 And just like that we are a quarter of the way through Hack Reactor.  I've already learned so much and it's showing no signs of slowing down.
