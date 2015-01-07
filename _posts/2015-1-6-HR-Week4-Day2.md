@@ -4,7 +4,7 @@ title: Hack Reactor - Week 4 Day 2
 tags: [Hack Reactor, Node, Azure]
 ---
 
-![Chatterbox](({{ site.url }}/assets/Chatterbox.png))
+![Chatterbox]({{ site.url }}/assets/Chatterbox.png)
 
 Woot!  A super basic chat app built in 4 days! 
 
