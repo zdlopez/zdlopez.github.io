@@ -10,7 +10,7 @@ Woot!  A super basic chat app built in 4 days!
 
 See more here:  [Chatterbox](http://nzchat.azurewebsites.net) 
 
-<!---more-->
+<!--more-->
 
 Highlights of the day:
 
