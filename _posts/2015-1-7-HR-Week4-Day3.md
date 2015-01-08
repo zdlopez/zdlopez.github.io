@@ -31,3 +31,7 @@ All paths must be absolute and not relative.  This includes calls to application
 
 This will report back the absolute path which you can use in cron.  Yay!
 
+### Entrepreneur Club
+
+Great talk today by Kiran Rao and Todd Skinner of HR 23.  They talked us through some funding examples and what different positions would mean through funding rounds.  Very enlightening.  
+
