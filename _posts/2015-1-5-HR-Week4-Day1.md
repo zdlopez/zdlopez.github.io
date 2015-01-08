@@ -11,6 +11,8 @@ Highlights of the day:
 * Backbone
 * Node
 
+<!--more-->
+
 ### Backbone
 
 I gotta work on this more.  We had a self-assesment today, and I couldn't get my mind out of Backbone written in Coffeescript.  Backbone makes sense in my head.  Just got to practice the syntax a bit more.  Read through a few examples.
