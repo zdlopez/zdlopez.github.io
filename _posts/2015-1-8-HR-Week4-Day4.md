@@ -23,7 +23,7 @@ Shin and I spent most of the day trying to wrap our brains around how to do this
 
 ### Hackathon
 
-Bren Cubacub, Christian Reyes, and Sasha Khadivian implemented the Gaia Script Chrome extension in 2 hours.   The extension takes your page and converts words to the scripture of Gaia and then transforms those elements to different colors and a continuously larger size.  
+Bren Cubacub, Christian Reyes, and Sasha Bayan implemented the Gaia Script Chrome extension in 2 hours.   The extension takes your page and converts words to the scripture of Gaia and then transforms those elements to different colors and a continuously larger size.  
 
 Other groups did some sweet extensions as well:  a chrome console javascript library injector, a feedback extension for Hack Reactor, and others.  
 
