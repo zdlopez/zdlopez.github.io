@@ -4,7 +4,7 @@ title: The Overdue Hack Reactor Update
 tags: [Hack Reactor, Machine Learning, Q-Rad.io, Hiring Day, Job Hunt]
 ---
 
-Hey folks, it's been about a month since I last wrote.  This has been one crazy period.  The final thesis project is a grueling, amazing, wonderful experience.  For the last month, up until yesterday, my group, [Eric Benson](https://github.com/ericbenson) and [Sasha Bayan](https://github.com/SashaBayan), have spent each and every day working on [Q-Rad.io](http://Q-Rad.io).  
+Hey folks, it's been about a month since I last wrote.  This has been one crazy period.  The final thesis project is a grueling, amazing, wonderful experience.  For the last month, up until yesterday, my group, [Eric Benson](https://github.com/ericbenson), [Sasha Bayan](https://github.com/SashaBayan) and I, have spent each and every day working on [Q-Rad.io](http://Q-Rad.io).  
 
 ##[Q-Rad.io](http://Q-Rad.io)
 
