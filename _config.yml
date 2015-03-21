@@ -1,27 +1,33 @@
-# Dependencies
-markdown:            redcarpet
-highlighter:         pygments
+title: Zachary Lopez
+author: Zachary Lopez
+description: "Thoughts, musings, and projects of a full stack engineer."
+#subheading: "Really cool blog about ... something"
+more: "continue reading"
+url: "http://zdlopez.com"
+#baseurl: "/"
+#baseurl: "/contrast" # comment out if in root directory
 
-# Permalinks
-#
-# Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
-relative_permalinks: true
+comments:
+    disqus: "zdlopez"
+#    isso: "comments.mysite.org"
 
-# Setup
-title:               Zachary Lopez
-tagline:             Software Engineer
-description:         'The thoughts, musings, and projects of a software engineer.'
-url:                 http://www.zdlopez.com
-baseurl:             /
-paginate:            5
-excerpt_separator:   <!--more-->
+style:
+#    body: "whitesmoke"
+    padding: 33%
+    anchor: "#46f"
+    serif-heading: true
+    nav: "#181818"
+#    headline: "#06f"
+    description: "white"
+    article:
+        odd: "#ffffff"
+        even: "#222222"
 
-# About/contact
-author:
-  name:              Zachary Lopez
-  url:               https://twitter.com/zdlopez
-  email:             zachary.d.lopez@gmail.com
+links:
+  - github: "https://github.com/zdlopez"
+  - twitter: "https://twitter.com/zdlopez"
+  - linkedin: "https://linkedin.com/in/zacharylopez"
 
-# Custom vars
-version:             1.0.0
+paginate: 5
+excerpt_separator: "<!--more-->"
+defaults: [{scope: {path: ""}, values: {layout: "default"}}, {scope: {path: "", type: "posts"}, values: {comments: true}}]
