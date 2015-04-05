@@ -3,17 +3,19 @@ layout: page
 title: About
 ---
 
-Currently I am a student at [Hack Reactor](http://www.hackreactor.com).  I am a member of cohort 23 that began on December 8th, 2014, and concludes on March 14, 2015.  
+I am a software engineer focused on providing solutions.  I believe that software and technology allows me to have a wider impact on the world.
 
-Previously, I spent the last 10 years working in the affordable housing industry, specifically in property management.  
+I just recently graduated from Hack Reactor Cohort 23 in March, 2015.  I have a Computer Science and Computer Engineering BS from [UC Davis](http://ucdavis.edu) in 2004.
+
+In this blog I enjoy writing about tech, algorithms, and other things that interest me. 
+
+Previously, I spent the last 10 years working in the affordable housing industry, specifically in property management.  This work allowed me to give directly back to my community.  I am so grateful for the opportunity and for the many wonderful colleagues that I had the pleasure of working with.
 
 Here are the companies that I have worked for:
 
 * [SAHA](http://www.sahahomes.org)
 * [TNDC](http://www.tndc.org)
 * [Eden Housing](http://www.edenhousing.org)
-
-I graduated from [UC Davis](http://www.ucdavis.edu) in 2004 with a BS in Computer Science and Computer Engineering. 
 
 Here are links to my various profiles:
 
