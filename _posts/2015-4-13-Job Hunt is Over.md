@@ -14,7 +14,7 @@ Here are the things that I have learned through the job hunt process.  Hopefully
 
 The job search requires effort.  You have to put in the work to get the results.  Jobs don't apply for themselves.  In some ways, the whole process is about numbers.  The more jobs you apply for, the more phone screens you will get, which leads to more on-sites, which hopefully leads to offers.  
 
-Ulitmately, you want options that you can be selective and choose a company or role that is the best fit.
+Ulitmately, you want options so that you can be selective and choose a company or role that is the best fit.
 
 ## The people and culture matter
 
@@ -35,5 +35,7 @@ Do I see myself working here?
 ## How does this fit with my career path?
 
 When considering different companies, think about how it fits into your career path.  Where is it that you want to ultimately go?  What are you goals for learning?  Will this company help you get there?
+
+These are the tips and questions that I have used to guide my job hunts over the years.  Feel free to ask questions or leave your own tips below.
 
 
