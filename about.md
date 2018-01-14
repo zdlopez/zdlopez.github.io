@@ -5,7 +5,9 @@ title: About
 
 I am a software engineer focused on providing solutions.  I believe that software and technology allows me to have a wider impact on the world.
 
-Since April of 2015, I work at [FiveStars](http://www.fivestars.com) in engineering and I couldn't be happier.  The culture, environment, and people are just what I was looking for as I made my career change.  
+Beginning in January 2018, I joined the merchant team at [Postmates](http://www.postmates.com).  I'm excited about the problem space that we work on and interested in seeing how teams work when total engineers > 100.
+
+Prio to Postmates, I worked at [FiveStars](http://www.fivestars.com).  The culture, environment, and people are just what I was looking for as I made my career change away from non-profits.
 
 I graduated from Hack Reactor Cohort 23 in March, 2015.  I have a Computer Science and Computer Engineering BS from [UC Davis](http://ucdavis.edu) in 2004.
 
@@ -15,6 +17,7 @@ Previously, I spent the last 10 years working in the affordable housing industry
 
 Here are the companies that I have worked for:
 
+* [Postmates](http://www.postmates.com)
 * [FiveStars](http://www.fivestars.com)
 * [SAHA](http://www.sahahomes.org)
 * [TNDC](http://www.tndc.org)
